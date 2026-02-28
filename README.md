@@ -1,10 +1,11 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
-"COMPANY": CODTECH IT SOLUTIONS
-"NAME": NITIN KUSHWAHA
-"INTERN ID": CTIS4897
-"DOMAIN": PYTHON PROGRAMMING
-"DURATION": 4 WEEKS
-"MENTOR": NEELA SANTOSH
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: NITIN KUSHWAHA
+*INTERN ID*: CTIS4897
+*DOMAIN*: PYTHON PROGRAMMING
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTOSH
+# DESCRIPTION:-
 Internship Task–1: API Integration and Data Visualization Using Python
 
 This internship task focuses on building practical skills in API integration, data handling, and data visualization using Python. The objective is to fetch real-time or live data from a public API—such as OpenWeatherMap—process the received data, and present meaningful insights through graphical visualizations. The entire task is to be implemented and executed using Visual Studio Code, ensuring hands-on experience with a professional development environment.
@@ -25,3 +26,5 @@ A Python script that demonstrates API integration, data processing, and visualiz
 A visualization dashboard, which may consist of one or more well-structured plots displayed together to represent the fetched data clearly.
 Using VS Code ensures familiarity with running Python scripts, managing files, handling errors, and organizing code efficiently. The task encourages clean coding practices, proper comments, and modular structure.
 Overall, this internship task provides real-world exposure to how software applications interact with live data sources and how raw data can be transformed into meaningful visual insights. Successfully completing this task strengthens fundamental skills in Python programming, API usage, and data visualization—essential competencies for careers in data science, software development, and analytics. Completion of this task contributes toward earning the internship completion certificate at the end of the internship period.
+# OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4dff39f7-1b58-46da-ac9b-173be21cd3f9" />
